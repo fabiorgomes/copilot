@@ -1,7 +1,7 @@
 # Conclusão Bootcamp 
 
 ## Descrição
-Introdução ao GitHub Copilot e OpenAI
+Introdução Copilot e OpenAI
 
 ## Estrutura do Repositório
 - `inputs/`: Contém as imagens utilizadas.
