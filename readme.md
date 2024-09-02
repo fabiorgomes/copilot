@@ -1,7 +1,7 @@
 # Conclusão Bootcamp 
 
 ## Descrição
-Planejar um evento para promover a alfabetização infantil
+Introdução ao GitHub Copilot e OpenAI
 
 ## Estrutura do Repositório
 - `inputs/`: Contém as imagens utilizadas.
@@ -9,9 +9,8 @@ Planejar um evento para promover a alfabetização infantil
 
 ## Processo
 Descreva o processo que você seguiu, incluindo:
-- Ferramentas utilizadas
-- Metodologia
-- Desafios enfrentados e como foram superados
+- GitHub Copilot
+- OpenAI
 
 ## Insights
 Compartilhe os principais aprendizados e insights obtidos durante o projeto.
