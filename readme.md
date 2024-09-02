@@ -1,7 +1,7 @@
 # Conclusão Bootcamp 
 
 ## Descrição
-Breve descrição do projeto e seus objetivos.
+Planejar um evento para promover a alfabetização infantil
 
 ## Estrutura do Repositório
 - `inputs/`: Contém as imagens utilizadas.
