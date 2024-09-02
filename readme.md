@@ -9,8 +9,7 @@ Introdução Copilot e OpenAI
 
 ## Processo
 Descreva o processo que você seguiu, incluindo:
-- GitHub Copilot
-- OpenAI
+- Copilot
 
 ## Insights
 Compartilhe os principais aprendizados e insights obtidos durante o projeto.
