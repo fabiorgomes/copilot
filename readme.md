@@ -2,7 +2,7 @@
 
 ## Descrição
 Reconhecimento de Textos
-Este projeto utiliza reconhecimento de texto com Copilot para gerar insights 
+Este projeto utiliza reconhecimento de texto com Copilot. 
 
 ## Estrutura do Repositório
 - `inputs/`: Contém as imagens da cidade de Cananeia.
