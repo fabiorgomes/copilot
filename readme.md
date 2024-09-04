@@ -19,5 +19,8 @@ Reconhecimento de Textos.
 
 ![image](https://github.com/user-attachments/assets/aeee35eb-5392-4997-9941-dac6e5cc8b36)
 
+## Fotos da Cidade
+![image](https://github.com/user-attachments/assets/f3106684-d467-4ae3-85d6-bb2ffde12ddb)
+
 
 
