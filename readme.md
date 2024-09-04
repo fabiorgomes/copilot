@@ -17,6 +17,7 @@ Reconhecimento de Textos.
 
 ## Prints
 
+![image](https://github.com/user-attachments/assets/aeee35eb-5392-4997-9941-dac6e5cc8b36)
 
 
 
